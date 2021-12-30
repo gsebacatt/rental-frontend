@@ -1,8 +1,7 @@
 
-##Rental's Site Frontend
+# Rental's Site Frontend
 
 React application listening on port 3000
-
 Requires Node.js v. > 10.0.0
 
 ## Description
