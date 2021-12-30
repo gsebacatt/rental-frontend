@@ -1,5 +1,5 @@
 
-#Rental's Site Frontend
+##Rental's Site Frontend
 
 React application listening on port 3000
 
@@ -18,7 +18,6 @@ $ npm install
 ## Running the app
 
 ```bash
-
 $ npm run start
 ```
 
